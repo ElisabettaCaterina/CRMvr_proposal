@@ -1,6 +1,6 @@
 # CRMvr_proposal
 
-Virtual Reconstruction processes are, in most cases, the result of a series of activities related to the definition of a representation of Cultural Heritage.
+Virtual Reconstruction (VR) processes are, in most cases, the result of a series of activities related to the definition of a representation of Cultural Heritage.
 
 The identification of these processes, together with the analysis of different kind of source documentation, provides to scholars and people involved in 3d modelling different virtual representation of the same object.
   
