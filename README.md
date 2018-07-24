@@ -14,12 +14,13 @@ The goal of the VR extension for CRM is an ontology to encode metadata and parad
 
 The goal of the concept model is to provide support to:
 
-Understand the VR process and its development 
-Recognize the provenance of information used
-Identify the various version of the same element because of documentation used to model it
-Support the investigation and interpretation about digital representation of elements
-Understand the correlation between parts and whole
-Support the encoding process to identify each part/version of 3d model
-Support the assignment of classification to Reference Sources used in VR to depict uncertainty of the 3D representation
-Support the assignment of level of accuracy of VR elements that can be deducted from the Reference Source
+* Understand the VR process and its development 
+* Recognize the provenance of information used
+* Identify the various version of the same element because of documentation used to model it
+* Support the investigation and interpretation about digital representation of elements
+* Understand the correlation between parts and whole
+* Support the encoding process to identify each part/version of 3d model
+* Support the assignment of classification to Reference Sources used in VR to depict uncertainty of the 3D representation
+* Support the assignment of level of accuracy of VR elements that can be deducted from the Reference Source
+
 The model is built on the same principle of CIDOC-CRM. The model reuses, when appropriate part of the CIDOC-CRM classes and properties, and refers to other CRM extensions that were developed to ensure the completeness of documentation.
